@@ -9,7 +9,7 @@ API_ID = 20898349
 API_HASH = "9fdb830d1e435b785f536247f49e7d87"
 SESSION = "BQE-4i0ARa9y1y2YBwjOAnbtDAgKth73-wAYL5DA_mCb2nOjsLIENWtdPd2vT4bSMZcTwIKMEUb4DLTkFtyksAJBl1HUbTW25q3VBogqR0iq9eQAxoxgjsLzvKxF7uGriPE7TQWq7ZLgsOj_fW2W7B_RsR9S8AZCji8H2ksKJ3ibrxQiQupvJ1rZqy-EgJH_vWus1lXxkjZ4cLCmYlTElm9UNpxri2qUgAPbDpHWoFGeqysiP6Jho7IvI6qY0ye2mnInKREr4bXK4c_qsMfGtof-Mb5N6l2jIJ5BRMROAogxq2cc_XqOBExptNKNpTTsJvbgEfXvbdtwcFb_aKPPAHJJuUw2agAAAAHALwpfAA"
 CHANNEL = "BOM_BOM68"  # tera user ID jahan result aayega
-
+YOUR_ID = 7519275615
 app = Client("s", api_id=API_ID, api_hash=API_HASH, session_string=SESSION)
 
 async def main():
