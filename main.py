@@ -50,4 +50,4 @@ async def main():
         await app.send_document(YOUR_ID, '/home/user/result.csv', caption="✅ Done!")
         print("All Done!")
 
-asyncio.run(main())
+app.run(main())
